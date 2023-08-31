@@ -11,7 +11,7 @@ A web application that showcases ASCII art using Go templates.
 ## Getting Started
 
 ### Prerequisites
-[Go](https://golang.org/doc/install)
+[Go](https://golang.org/doc/install)<br>
 [Docker](https://docs.docker.com/get-docker/)
 
 ### Running the Application
